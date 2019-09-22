@@ -1,7 +1,7 @@
 # vuejs-stripe-menu
 Vuejs version of stripe.com top menu.
 
-![Demo vuejs stripe menu](/vuejs-stripe-menu-demo.gif "Demo")
+![Demo vuejs stripe menu](/demo-vuejs-stripe-menu.gif "Demo")
 
 
 ## Project setup

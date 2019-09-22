@@ -37,16 +37,14 @@
       </a>
     </li>
 
-    <mobile-menu />
   </ul>
 </template>
 
 <script>
 import Logo from "@/components/Logo";
-import MobileMenu from "@/components/MobileMenu";
 export default {
   name: "Navbar",
-  components: { MobileMenu, Logo },
+  components: { Logo },
   props: {
     config: Object,
     currentDropdown: Object

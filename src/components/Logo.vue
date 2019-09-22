@@ -1,5 +1,5 @@
 <template>
-  <a class="rootLink item-home colorize" href="/">
+  <a class="rootLink item-home" href="/">
     <h1>
       <svg width="62" height="25">
         <title>Stripe</title>
